@@ -1,0 +1,12 @@
+# MBM Content Studio Ignore
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.zip
+.DS_Store
+1_VIDEO_PROJECTS/*
+!1_VIDEO_PROJECTS/*/OBS_Scenes/
+!1_VIDEO_PROJECTS/*/Premiere_Project/
+!2_OBS_CONFIG/
+!3_PREMIERE_TEMPLATES/
